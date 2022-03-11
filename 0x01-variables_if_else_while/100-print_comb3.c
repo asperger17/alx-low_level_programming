@@ -1,7 +1,8 @@
 #include <stdio.h>
 /**
  * main - main block
- * Description: Print all possible combinations of two digits in ascending order.
+ * Description: Print all possible combinations of two digits
+ * in ascending order.
  * Numbers must be separated by commas and a space.
  * Print only the smallest combination of two digits.
  * You can only use `putchar` and only up to 5 times.
